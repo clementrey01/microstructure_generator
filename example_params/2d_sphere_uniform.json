@@ -14,5 +14,5 @@
     },
     "move_factor": 0.05,
     "show_plot": true,
-    "directory_path": "~/tann-research-project/data/generated_microstructures"
+    "directory_path": "../"
 }
