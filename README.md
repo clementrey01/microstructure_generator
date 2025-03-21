@@ -57,9 +57,9 @@ The `example_params/` directory contains several example JSON files for differen
 - `3d_sphere_monodisperse.json`: 3D monodisperse sphere packing.
 - `3d_sphere_uniform_filename.json`: 3D polydisperse sphere packing with a uniform size distribution and a custom filename.
 - `2d_sphere_custom.json`: 2D polydisperse sphere packing with a custom size distribution.
-- `3d_sphere_lognormal_margin.json`: 3D polydisperse sphere packing with a lognormal size distribution and a custom margin.
-- `2d_sphere_normal_batchsize.json`: 2D polydisperse sphere packing with a normal size distribution and a custom batch size.
-- `2d_sphere_uniform_movefactor.json`: 2D polydisperse sphere packing with a uniform size distribution and a custom move factor.
+- `3d_sphere_lognormal.json`: 3D polydisperse sphere packing with a lognormal size distribution.
+- `2d_sphere_normal.json`: 2D polydisperse sphere packing with a normal size distribution.
+- `2d_sphere_uniform.json`: 2D polydisperse sphere packing with a uniform size distribution.
 
 
 ### Parameters
