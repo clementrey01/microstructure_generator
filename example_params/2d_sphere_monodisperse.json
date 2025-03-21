@@ -1,0 +1,17 @@
+{
+    "structure_type": "sphere_packing",
+    "is_3d": false,
+    "domain_size": [1.0, 1.0],
+    "resolution": [100, 100],
+    "target_porosity": 0.4,
+    "max_attempts": 1000,
+    "batch_size": 100,
+    "margin": 5e-3,
+    "size_distribution": {
+        "type": "monodisperse",
+        "radius": 0.02
+    },
+    "move_factor": 0.05,
+    "show_plot": true,
+    "directory_path": "~/tann-research-project/data/generated_microstructures"
+}
